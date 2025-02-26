@@ -3,7 +3,6 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 importance 
@@ -19,7 +18,6 @@ Mastering process
 Mastering machine
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
 planning - identify the software requirement or purpose and scope.
  requirement analysis - identify the final user specification. 
 design - building the framework. 
@@ -91,10 +89,8 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 Whether the software meets the needs of the end-user and is ready for deployment.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 Define prompt engineering and discuss its importance in interacting with AI models.
-Define prompt engineering and discuss its importance in interacting with AI models.
- prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
+prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
